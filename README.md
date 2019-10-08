@@ -22,7 +22,6 @@ HOMEWORK
 
 #### 使用案例圖：
 ![image](https://github.com/Roy1028/oo_1/blob/master/使用案例.jpg)
-# 資管3乙 系統分析 第二組 github
 ## 專題題目
 智慧商業餐桌
 ## 文字敘述專題需求
