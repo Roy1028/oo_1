@@ -72,7 +72,6 @@ C. 消費者互動小遊戲
 ##  初步類別圖
 ![image](https://github.com/Roy1028/oo_1/blob/master/%E5%88%9D%E6%AD%A5%E9%A1%9E%E5%88%A51.png)
 ![image](https://github.com/Roy1028/oo_1/blob/master/%E5%88%9D%E6%AD%A5%E9%A1%9E%E5%88%A5%E9%BB%9E%E9%A4%90%E7%B3%BB%E7%B5%B1.png)
-![image](https://github.com/Roy1028/oo_1/blob/master/%E5%88%9D%E6%AD%A5%E9%A1%9E%E5%88%A51.png)
 
 
 ##  系統循序圖
