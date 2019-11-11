@@ -76,3 +76,6 @@ C. 消費者互動小遊戲
 ![image](https://github.com/Roy1028/oo_1/blob/master/%E9%81%8A%E6%88%B2%E5%BE%AA%E5%BA%8F.png)
 ![image](https://github.com/Roy1028/oo_1/blob/master/%E9%BB%9E%E9%A4%90%E5%BE%AA%E5%BA%8F%E5%9C%96.png)
 ![image](https://github.com/Roy1028/oo_1/blob/master/%E5%95%86%E5%AE%B6-%E5%BE%8C%E7%AB%AF.png)
+
+##  強韌圖
+![image](1.1.jpg)
