@@ -68,7 +68,7 @@ C. 消費者互動小遊戲
  * 案例四：身為一個老闆，我希望能藉由互動小遊戲能了解消費者來用餐時的喜好程度還有建議，這樣我才能針對消費者給我的建議來改善營運方針來提高營收
 
 ##  初步類別圖
-![image](https://github.com/Roy1028/oo_1/blob/master/%E5%88%9D%E6%AD%A5%E9%A1%9E%E5%88%A51.png)
+![image](1.png)
 ![image](https://github.com/Roy1028/oo_1/blob/master/%E5%88%9D%E6%AD%A5%E9%A1%9E%E5%88%A5%E9%BB%9E%E9%A4%90%E7%B3%BB%E7%B5%B1.png)
 
 
