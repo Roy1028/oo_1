@@ -19,7 +19,7 @@ HOMEWORK
 
 
 #### 使用案例圖：
-![image](https://github.com/Roy1028/oo_1/blob/master/usecase.jpg)
+![image](usecase.jpg)
 ## 專題題目
 智慧商業餐桌
 ## 文字敘述專題需求
