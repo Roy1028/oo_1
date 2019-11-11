@@ -18,8 +18,6 @@ HOMEWORK
 <https://www.nkust.edu.tw/>
 
 
-#### 使用案例圖：
-![image](usecase.jpg)
 ## 專題題目
 智慧商業餐桌
 ## 文字敘述專題需求
@@ -35,7 +33,7 @@ HOMEWORK
 - 安全_操作過程無個資問題
 - 文化_具有多國語言供使用者選擇
 ## 使用案例圖 (use case diagram)
-
+![image](usecase.jpg)
 
 ## 由上而下 排出 使用案例的重要性
 1. 電子點餐
