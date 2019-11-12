@@ -78,4 +78,4 @@ C. 消費者互動小遊戲
 
 ##  強韌圖
 ![image](1.1.jpg)
-![image](2.PNG)
+![image](2.png)
