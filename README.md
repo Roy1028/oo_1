@@ -70,7 +70,7 @@ C. 業者端叫貨系統
  * 案例四：身為一個老闆，我希望系統可以幫我分析出本期需要的叫貨內容,並找出最合適的廠商且提供他們的資訊
 
 ##  初步類別圖：
-![image](https://github.com/Roy1028/oo_1/blob/master/Untitled%20Diagram.jpg)
+![image](ㄌㄅㄊ.jpg)
 
 
 ##  系統循序圖：
