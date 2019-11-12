@@ -76,11 +76,11 @@ C. 業者端叫貨系統
 ##  系統循序圖：
 
 #### 電子點餐
-![image](https://github.com/Roy1028/oo_1/blob/master/%E9%81%8A%E6%88%B2%E5%BE%AA%E5%BA%8F.png)
-#### 後端統計銷售資訊 
 ![image](https://github.com/Roy1028/oo_1/blob/master/%E9%BB%9E%E9%A4%90%E5%BE%AA%E5%BA%8F%E5%9C%96.png)
-#### 業者端叫貨系
+#### 後端統計銷售資訊 
 ![image](https://github.com/Roy1028/oo_1/blob/master/%E5%95%86%E5%AE%B6-%E5%BE%8C%E7%AB%AF.png)
+#### 業者端叫貨系
+![image](業者端.jpg)
 
 ##  強韌圖：
 
